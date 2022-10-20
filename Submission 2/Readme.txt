@@ -1,4 +1,4 @@
-# CSE431-Task-2-Group 15-Paper-Presentation
+# CSE431-Task02-Group 15-Paper-Presentation
 
 Link to unlisted youtube video:
 https://youtu.be/vYTkOeZEkSk
