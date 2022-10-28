@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://www.youtube.com/watch
 
 Two public link to the Concept Map (anyone on the internet can view without login):
-PDF: 
+PDF: https://drive.google.com/file/d/1cUKsoJGkb7EV4eAvi8BwJPPhsOVCdyIm/view?usp=sharing
 
 
 Native/original format: https://drive.google.com/file/d/1pzLjc2a8ap1Dp2HvJo60JHfYnfqJlDit/view?usp=sharing
