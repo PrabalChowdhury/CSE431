@@ -5,14 +5,14 @@ Two public link to the Concept Map (anyone on the internet can view without logi
 PDF: 
 
 
-Native/original format: 
+Native/original format: https://drive.google.com/file/d/1pzLjc2a8ap1Dp2HvJo60JHfYnfqJlDit/view?usp=sharing
 
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
 Jurafsky
 3rd edition
-2014
+2021
 Pearson
 
 Link to the book:
