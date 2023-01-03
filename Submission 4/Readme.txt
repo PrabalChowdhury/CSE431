@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/VSwUGzUCfC4
 
 Conference submitted paper / paper submission / login Link: 
-https://easychair.org/conferences/submitted?a=30123526;submission=6341059;track=296283
+https://easychair.org/conferences/submitted?a=30123783;submission=6341084;track=296258
 
 Paper title:
 Automatic resume segmentation and screening the
@@ -16,14 +16,14 @@ Paper submission date (to workshop/conference):
 
 
 Paper submission ID: (received) from conference/workshop:
-4
+5551
 
 
 Conference Name:
 
 
 Conference URL:
-https://easychair.org/cfp/EPIA2023
+ https://easychair.org/conferences/?conf=jcdl2023
 
 Group Number:
 15
