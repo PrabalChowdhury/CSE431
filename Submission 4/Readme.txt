@@ -9,7 +9,7 @@ Automatic resume segmentation and screening the
 resume using NLP and machine Learning methods
 
 Paper presentation (anyone can view without login):
-
+https://drive.google.com/file/d/1gVtfw7Pu2EEV9LTlckdmkOiw_D52Zbl-/view?usp=share_link
 
 Paper submission date (to workshop/conference):
 03.01.2023
