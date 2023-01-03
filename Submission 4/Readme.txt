@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/VSwUGzUCfC4
 
 Conference submitted paper / paper submission / login Link: 
-https://cmt3.research.microsoft.com/ICCIT2023/Submission/Details/4
+https://easychair.org/conferences/submitted?a=30123526;submission=6341059;track=296283
 
 Paper title:
 Automatic resume segmentation and screening the
@@ -12,7 +12,7 @@ Paper presentation (anyone can view without login):
 
 
 Paper submission date (to workshop/conference):
-19.12.2022
+03.01.2023
 
 
 Paper submission ID: (received) from conference/workshop:
@@ -23,7 +23,7 @@ Conference Name:
 
 
 Conference URL:
-https://iccit.org.bd/2022/
+https://easychair.org/cfp/EPIA2023
 
 Group Number:
 15
