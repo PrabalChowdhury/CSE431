@@ -9,6 +9,7 @@ Fake News Detection Using Knowledge Verification
 and Natural Language Processing
 
 Paper presentation (anyone can view without login):
+https://drive.google.com/file/d/1Ind758vLQpyDzkUctlPsw7U49I0Z9ecL/view?usp=share_link
 
 Paper submission date (to workshop/conference):
 
